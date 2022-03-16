@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.tar.gz
+*.zip
+*.pkl
+*.pyc
+*.sh
